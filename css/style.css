@@ -48,6 +48,12 @@ h1,h2,h3,ul,p{
      margin: -1px;
 }
 
+
+.ull{
+    padding: 0;
+}
+
+
 /*Paragraph*/
 
 .about-paragraph,
@@ -238,7 +244,7 @@ h1,h2,h3,ul,p{
 .about-list{
     display: flex;
     flex-wrap: wrap;
-    padding: 0;
+    
 }
 
 
@@ -482,8 +488,8 @@ h1,h2,h3,ul,p{
 }
 
 .portfolio{
-    margin-bottom: 94px;
-    margin-top: 94px;
+    padding-bottom: 94px;
+    padding-top: 94px;
 }
 
 
